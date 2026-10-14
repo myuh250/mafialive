@@ -1,0 +1,8 @@
+.git
+.gitignore
+*.docx
+*.jpg
+README.md
+LICENSE
+note_for_mf_forum.txt
+docker-compose.yml
